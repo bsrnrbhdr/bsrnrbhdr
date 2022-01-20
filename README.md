@@ -1,6 +1,6 @@
 ### Hi there 👋  <i>WELCOME TO MY PROFILE</i> 🧙‍♀️
 
-- 🔭 I’m currently working on *[ javascript games]( https://github.com/bsrnrbhdr/javascript-game)* you can play on https://bsrnrbhdr.github.io/minigame.html
+- 🔭 I’m currently working on *[ javascript games]( https://github.com/bsrnrbhdr/minijs-game)* you can play on https://bsrnrbhdr.github.io/mini-js-game/
 - 🌱 I’m currently learning pixelart and machine learning
 - 👻 Visit my personal page on heroku : https://bsrnrbhdr.herokuapp.com
 - 💬 You can ask me anything about my projects
